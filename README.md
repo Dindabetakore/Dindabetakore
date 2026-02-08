@@ -5,7 +5,7 @@ I am a Computer Science student with a strong passion for **Mobile Development (
 - 🚀 **Latest Project:** **NikoNiko**, a native Android mood & habit tracker featuring data visualization and weighted scoring algorithms.
 - 🌱 **I’m currently exploring:** Android Architecture (MVVM), Modern Web Frameworks, advanced CSS techniques, and High-Fidelity Figma Prototyping.
 - 💾 **Also interested in:** Database design & schema optimization to build scalable applications for both web and mobile.
-- 💼 **Looking for:** Internship opportunities in **Android Development**, Frontend Web, or UI/UX Design.
+- 💼 **Looking for:** Internship opportunities in Android Development, Frontend Web, or UI/UX Design.
 
 #### 🖼️ Portfolio Highlights
 | Project | Platform | Key Tech & Impact |
